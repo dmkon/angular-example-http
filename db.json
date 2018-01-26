@@ -1,0 +1,27 @@
+{
+  "title": {
+    "value": "Car Manager"
+  },
+  "cars": [
+    {
+      "name": "Ford",
+      "color": "pink",
+      "id": 1
+    },
+    {
+      "name": "Bentley",
+      "color": "green",
+      "id": 2
+    },
+    {
+      "name": "Audi",
+      "color": "grey",
+      "id": 3
+    },
+    {
+      "name": "Lada",
+      "color": "pink",
+      "id": 4
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+# /node_modules/* and /bower_components/* ignored by default
+
+# Ignore built files except build/index.js
+build/*
+!build/index.js
+
+# Ignore src/environments/
+src/environments/*
+
+# Ignore src/typings.d.ts
+src/typings.d.ts
